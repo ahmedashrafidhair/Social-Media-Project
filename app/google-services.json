@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481260678186",
+    "project_id": "social-media-ce69e",
+    "storage_bucket": "social-media-ce69e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481260678186:android:8b69781ba4b43d86946753",
+        "android_client_info": {
+          "package_name": "com.ahmedidhair.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481260678186-1mirb3adhi8glnrpv4u4dtn1nh91d87v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6Uff_mp6H-N6UYJkjovPcC8GFUL3CMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481260678186-1mirb3adhi8glnrpv4u4dtn1nh91d87v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
